@@ -7,7 +7,7 @@ int main(){
     for(int i=0; i<=0; i++){
 		for(j=0; j<=5; j++){
 			cout<<j<<endl;
-			i++;
+			j++;
 		}
 		
 	}
