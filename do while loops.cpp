@@ -4,8 +4,8 @@ using namespace std;
 //do while loops
 int main (){
 	int t=0;
-	cout<<"Please enter any no.!: "<<endl;
-	cin>>t;
+//	cout<<"Please enter any no.!: "<<endl;
+//	cin>>t;
 	do{
 		t++;
 		cout<<t<<endl;
