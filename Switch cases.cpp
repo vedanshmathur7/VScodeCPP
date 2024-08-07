@@ -11,7 +11,7 @@ int main (){
     cout<<"You are now matured one! "<<endl;
     break; 
     case 25:
-    	cout<<"You better find a spouse!"<<endl;
+    	cout<<"You better find a  spouse!"<<endl;
     	break;
     default:
     cout<<"You are alive at least! "<<endl;
